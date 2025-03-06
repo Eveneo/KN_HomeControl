@@ -1,2 +1,2 @@
-# KN_HomeControl
+# KN_HomeControl 🏡
 A Kricom Network Project
